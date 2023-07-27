@@ -1,1 +1,12 @@
 # AutomateWithVBA
+The automation of tasks within the Human Resources Development (HR) of OCP Group represents a crucial challenge to optimize the team's efficiency and productivity. Currently, the weekly training planning for agents from various departments is done manually. This traditional approach leads to an overload of work, potential errors, and significant time loss in managing information related to different trainings and employees.  
+
+In the automation process, the weekly planning relies on a predefined schedule, taking into account the annual training needs. This approach allows for accurately defining the training topics that will be delivered each week. The planning includes the names of employees and other relevant information, ensuring individualized and optimal training management.  
+
+The "Annual Training Needs" encompass all planned trainings for the current year, specifying the employees involved in each of them. It provides an overview of the skill development needs within the organization, contributing to an efficient planning process.  
+
+The "Weekly Schedule" serves as an essential tool to specify the training topics that will be covered each week. Additionally, through automation, employees selected for the trainings could be automatically identified. For easier tracking, an automated system could display the names of employees scheduled for each training. If an employee successfully participates in the training, their status in the annual needs would be automatically updated to "completed." If the training is scheduled but not yet conducted, the status would be updated to "planned."  
+
+This automation would also enable easy access to the list of employees whose participation in a training is planned, but currently marked as "scheduled." This would offer a clear and real-time view of training planning for each employee, facilitating overall human resources management.  
+
+By addressing this issue, the goal is to simplify and streamline the planning processes, improve the accuracy and traceability of trainings, while ensuring a fair distribution of covered topics. Automation would, therefore, provide a competitive advantage to OCP by enhancing its human resources management, strengthening employee skills, and aligning the delivered trainings with the organization's needs.  
